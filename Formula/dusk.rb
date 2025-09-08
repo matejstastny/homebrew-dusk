@@ -1,7 +1,7 @@
 class Dusk < Formula
   desc "A diskutil list wrapper with pretty output"
-  homepage "https://github.com/my-daarlin/dusk"
-  url "https://github.com/my-daarlin/dusk/archive/refs/tags/v1.0.0.tar.gz"
+  homepage "https://github.com/matejstastny/dusk"
+  url "https://github.com/matejstastny/dusk/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "70ddff974520b4eee891d96c267b6ff13a32db414da7c58c8bb9703bc216a50a"
   license "MIT"
 

@@ -1,10 +1,10 @@
 # 🍺 dusk-brew
 
-Homebrew Tap for the [dusk](https://github.com/my-daarlin/dusk) CLI.
+Homebrew Tap for the [dusk](https://github.com/matejstastny/dusk) CLI.
 
 ## Installation
 
 ```bash
-brew tap my-daarlin/dusk
+brew tap matejstastny/dusk
 brew install dusk
 ```
